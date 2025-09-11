@@ -1,15 +1,3 @@
-<style>
-/* 去掉 h2 下方的横线 */
-h2 {
-  border-bottom: none !important;
-}
-
-/* 缩小正文和列表的间距 */
-p + ul {
-  margin-top: 0.2em !important;
-}
-</style>
-
 ---
 permalink: /
 title: "About Me"
