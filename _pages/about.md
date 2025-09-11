@@ -1,3 +1,15 @@
+<style>
+/* 去掉 h2 下方的横线 */
+h2 {
+  border-bottom: none !important;
+}
+
+/* 缩小正文和列表的间距 */
+p + ul {
+  margin-top: 0.2em !important;
+}
+</style>
+
 ---
 permalink: /
 title: "About Me"
@@ -21,3 +33,4 @@ My research interests focus on **spatio-temporal data mining** and **time-series
 I warmly welcome collaborations with researchers interested in **spatio-temporal data mining, intelligent transportation, time-series modeling, and large models**.
 
 For more information, please visit my academic profiles: [Google Scholar](https://scholar.google.com/citations?user=lS915b8AAAAJ&hl=zh-CN) · [DBLP](https://dblp.org/pid/25/5081-1.html).
+
