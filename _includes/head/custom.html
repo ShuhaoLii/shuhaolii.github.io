@@ -16,9 +16,26 @@
 
 <!-- Smooth anchor scrolling + avoid header overlap -->
 <style>
+  /* —— 你已有的样式 …… —— */
   html { scroll-behavior: smooth; }
-  /* 根据你的顶栏高度微调 60–100px 区间 */
   h1[id], h2[id], h3[id], h4[id] { scroll-margin-top: 80px; }
+
+  /* —— 页脚文字与图标改为浅灰 —— */
+  .page__footer,
+  .page__footer p,
+  .page__footer li,
+  .page__footer a,
+  .page__footer h2,
+  .page__footer h3,
+  .page__footer .social-icons a {
+    color: #d6d6d6 !important;   /* 浅灰 */
+  }
+  .page__footer svg {            /* 页脚里的图标（SVG） */
+    fill: #d6d6d6 !important;
+  }
+  .page__footer a:hover {        /* 悬停时可稍亮一点（可选） */
+    color: #ffffff !important;
+  }
 </style>
 
 <!-- end custom head snippets -->
