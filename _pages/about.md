@@ -28,7 +28,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 - <span style="color:#FF8C00;">[Jul 2024]</span> Our paper **McgVAE** on lane-level traffic prediction has been accepted to **CIKM 2024**.  
 - <span style="color:#FF8C00;">[Mar 2024]</span> Our paper **ST-ABC** on lane-level traffic prediction has been accepted to **ICDE 2024**.  
 
-# 📑 Selected Publications 
+# 📑 Selected Publications {#selected-publications}
 
 ### 2025  
 - **Shuhao Li**, Weidong Yang, Yue Cui, Xiaoxing Liu, Lingkai Meng, Lipeng Ma, Fan Zhang  
@@ -58,7 +58,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
   *ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework.*  
   **ICDE** <span style="color:#B22222;">**CCF A**</span>  
 
-# 📖 Academic Services
+# 📖 Academic Services {#academic-services}
 ### Conference PC Member  
 - **2026**: KDD, AAAI  
 - **2025**: NeurIPS, KDD, WWW, ICML, ICLR  
@@ -71,3 +71,5 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 ### External Reviewer  
 - **2024**: ICDE, CIKM, DASFAA, ICASSP  
 - **2023**: ICDM  
+
+# Honors & Awards {#honors-awards}
