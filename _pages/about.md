@@ -38,7 +38,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 - **Shuhao Li**, Yue Cui, Jingyi Xu, Libin Li, Lingkai Meng, Weidong Yang, Fan Zhang, Xiaofang Zhou  
   *Unifying Lane-Level Traffic Prediction From a Graph Structural Perspective: Benchmark and Baseline.*  
   **IEEE Trans. Knowl. Data Eng. (TKDE)** 37(9): 5699–5718 (2025)  
-  <span style="color:#B22222;">**CCF A**</span>, <span style="color:#00008B;">SCI Q1</span>  
+  <span style="color:#B22222;">**CCF A**</span>, <span style="color:#00008B;">**SCI Q1**</span>  
 
 ### 2024  
 - **Shuhao Li**, Yue Cui, Jingyi Xu, Jing Zhao, Fan Zhang, Weidong Yang, Xiaofang Zhou  
