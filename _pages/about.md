@@ -72,4 +72,8 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 - **2024**: ICDE, CIKM, DASFAA, ICASSP  
 - **2023**: ICDM  
 
-# Honors & Awards {#honors-awards}
+# 🏆 Honors & Awards {#honors-awards}
+- CSC National Scholarship for Study Abroad (2025)  
+- Fudan–Huawei Scholarship (2024)  
+- First-Class Academic Scholarship, Fudan University (2023)  
+- GZU–Jinhang Technology Scholarship (2022)  
