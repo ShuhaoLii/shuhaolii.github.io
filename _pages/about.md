@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About Me 👋"
+title: "👋 About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan University**](https://cs.fudan.edu.cn/24248/list.htm) (2023–present), under the supervision of [**Prof. Wei-Dong Yang**](https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm), and I am expected to graduate in 2027. Prior to this, I received my M.S. degree from **Guangzhou University** in June 2023, advised by [**Prof. Xiaofang Zhou**](https://sites.google.com/view/xiaofang-zhou/home).
+I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan University**](https://cs.fudan.edu.cn/24248/list.htm) (2023–present), under the supervision of [**Prof. Wei-Dong Yang**](https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm), and I am expected to graduate in 2027. Prior to this, I received my M.S. degree from Guangzhou University in June 2023, advised by [**Prof. Xiaofang Zhou**](https://sites.google.com/view/xiaofang-zhou/home).
 
-# Research Interests 🔍
+# 🔍 Research Interests
 
 My research interests focus on **spatio-temporal data mining** and **time-series modeling**, with applications in **intelligent transportation systems (ITS)** and beyond. My current work spans **regional-, road-, and lane-level traffic prediction**, aiming to achieve high-accuracy forecasting to support downstream tasks such as **routing, signal control, and tidal lane management**. I also explore the integration of **large-scale pre-trained models** and **large language models (LLMs)** to improve the **scalability, generalization, and multimodal capabilities** of traffic forecasting. Specifically, my work covers:
 
@@ -22,7 +22,12 @@ I warmly welcome collaborations with researchers interested in **spatio-temporal
 
 For more information, please visit my academic profiles: [Google Scholar](https://scholar.google.com/citations?user=lS915b8AAAAJ&hl=zh-CN) · [DBLP](https://dblp.org/pid/25/5081-1.html).
 
-# News 💥
+# 💥 News 
+- <span style="color:#FF8C00;">[May 2025]</span> Our paper on **fine-grained traffic inference** has been accepted to **KDD 2025**.  
+- <span style="color:#FF8C00;">[Feb 2025]</span> Our work on the **lane-level traffic prediction benchmark and baselines** has been accepted to **TKDE**.  
+- <span style="color:#FF8C00;">[Jul 2024]</span> Our paper **McgVAE** on lane-level traffic prediction has been accepted to **CIKM 2024**.  
+- <span style="color:#FF8C00;">[Mar 2024]</span> Our paper **ST-ABC** on lane-level traffic prediction has been accepted to **ICDE 2024**.  
 
-# Selected Publications 📑
+# 📑 Selected Publications 
 
+# 📖 Academic Services
