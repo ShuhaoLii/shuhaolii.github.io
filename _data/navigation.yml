@@ -9,7 +9,7 @@
 
 main:
   - title: "Selected Publications"
-    url: "/about/#selected-publications"
+    url: "/#selected-publications"
   - title: "Academic Services"
     url: "/about/#academic-services"
   - title: "Honors & Awards"
