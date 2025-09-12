@@ -81,5 +81,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 # 👀 Visitors {#visitors}
 
 <div class="visitors-widget">
+  <div class="visitors-inner">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=xjAOLx1Ak6eoqZscKSOycCVvSoLN8fImxgk0_BObTCU&cl=ffffff&w=a"></script>
+  </div>
 </div>
