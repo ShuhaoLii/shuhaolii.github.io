@@ -14,27 +14,16 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- Smooth anchor scrolling + avoid header overlap -->
-<style>
-  /* —— 你已有的样式 …… —— */
+
+  <style>
+  /* 已有内容... */
   html { scroll-behavior: smooth; }
   h1[id], h2[id], h3[id], h4[id] { scroll-margin-top: 80px; }
 
-  /* —— 页脚文字与图标改为浅灰 —— */
-  .page__footer,
-  .page__footer p,
-  .page__footer li,
-  .page__footer a,
-  .page__footer h2,
-  .page__footer h3,
-  .page__footer .social-icons a {
-    color: #d6d6d6 !important;   /* 浅灰 */
-  }
-  .page__footer svg {            /* 页脚里的图标（SVG） */
-    fill: #d6d6d6 !important;
-  }
-  .page__footer a:hover {        /* 悬停时可稍亮一点（可选） */
-    color: #ffffff !important;
+  /* 页脚背景：浅灰 */
+  .page__footer { 
+    background-color: #f5f5f5 !important;   /* 你也可以试 #f3f4f6 或 #efefef */
+    border-top: 1px solid #e5e5e5 !important; /* 可选，让过渡更柔和 */
   }
 </style>
 
