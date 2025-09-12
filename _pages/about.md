@@ -59,3 +59,15 @@ For more information, please visit my academic profiles: [Google Scholar](https:
   **ICDE** <span style="color:#B22222;">**CCF A**</span>  
 
 # 📖 Academic Services
+### Conference PC Member  
+- **2026**: KDD, AAAI  
+- **2025**: NeurIPS, KDD, WWW, ICML, ICLR  
+- **2024**: NeurIPS  
+
+### Invited Journal Reviewer  
+- **2025**: TKDE, TEENG  
+- **2024**: TKDE, Neural Networks, TCCN  
+
+### External Reviewer  
+- **2024**: ICDE, CIKM, DASFAA, ICASSP  
+- **2023**: ICDM  
