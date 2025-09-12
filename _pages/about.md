@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan University**](https://cs.fudan.edu.cn/24248/list.htm) (2023–present), under the supervision of [**Prof. Wei-Dong Yang**](https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm), and I am expected to graduate in 2027. Prior to this, I received my M.S. degree from Guangzhou University in June 2023, advised by [**Prof. Xiaofang Zhou**](https://sites.google.com/view/xiaofang-zhou/home).
+I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan University**](https://cs.fudan.edu.cn/24248/list.htm) (2023–present), under the supervision of [**Prof. Weidong Yang**](https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm), and I am expected to graduate in 2027. Prior to this, I received my M.S. degree from Guangzhou University in June 2023, advised by [**Prof. Xiaofang Zhou**](https://sites.google.com/view/xiaofang-zhou/home).
 
 # 🔍 Research Interests
 
@@ -29,5 +29,33 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 - <span style="color:#FF8C00;">[Mar 2024]</span> Our paper **ST-ABC** on lane-level traffic prediction has been accepted to **ICDE 2024**.  
 
 # 📑 Selected Publications 
+
+### 2025  
+- **Shuhao Li**, Weidong Yang, Yue Cui, Xiaoxing Liu, Lingkai Meng, Lipeng Ma, Fan Zhang  
+  *Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation.*  
+  **SIGKDD** <span style="color:#B22222;">**CCF A**</span>  
+
+- **Shuhao Li**, Yue Cui, Jingyi Xu, Libin Li, Lingkai Meng, Weidong Yang, Fan Zhang, Xiaofang Zhou  
+  *Unifying Lane-Level Traffic Prediction From a Graph Structural Perspective: Benchmark and Baseline.*  
+  **IEEE Trans. Knowl. Data Eng. (TKDE)** 37(9): 5699–5718 (2025)  
+  <span style="color:#B22222;">**CCF A**</span>, <span style="color:#00008B;">SCI Q1</span>  
+
+### 2024  
+- **Shuhao Li**, Yue Cui, Jingyi Xu, Jing Zhao, Fan Zhang, Weidong Yang, Xiaofang Zhou  
+  *Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction.*  
+  **CIKM** <span style="color:#FF8C00;">**CCF B**</span>  
+
+- **Shuhao Li**, Yue Cui, Libin Li, Weidong Yang, Fan Zhang, Xiaofang Zhou  
+  *ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction.*  
+  **ICDE** <span style="color:#B22222;">**CCF A**</span>  
+
+### 2023  
+- **Shuhao Li**, Yue Cui, Yan Zhao, Weidong Yang, Ruiyuan Zhang, Xiaofang Zhou  
+  *ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction.*  
+  **CIKM** <span style="color:#FF8C00;">**CCF B**</span>  
+
+- Yue Cui, **Shuhao Li**, Wenjin Deng, Zhaokun Zhang, Jing Zhao, Kai Zheng, Xiaofang Zhou  
+  *ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework.*  
+  **ICDE** <span style="color:#B22222;">**CCF A**</span>  
 
 # 📖 Academic Services
