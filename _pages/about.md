@@ -30,33 +30,69 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 
 # 📑 Selected Publications {#selected-publications}
 
-### 2025  
-- **Shuhao Li**, Weidong Yang, Yue Cui, Xiaoxing Liu, Lingkai Meng, Lipeng Ma, Fan Zhang  
-  *Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation.*  
-  **SIGKDD** <span style="color:#B22222;">**CCF A**</span>  
+<div class="pub-list">
 
-- **Shuhao Li**, Yue Cui, Jingyi Xu, Libin Li, Lingkai Meng, Weidong Yang, Fan Zhang, Xiaofang Zhou  
-  *Unifying Lane-Level Traffic Prediction From a Graph Structural Perspective: Benchmark and Baseline.*  
-  **IEEE Trans. Knowl. Data Eng. (TKDE)** 37(9): 5699–5718 (2025)  
-  <span style="color:#B22222;">**CCF A**</span>, <span style="color:#00008B;">**SCI Q1**</span>  
+<p class="pub-year">2025</p>
 
-### 2024  
-- **Shuhao Li**, Yue Cui, Jingyi Xu, Jing Zhao, Fan Zhang, Weidong Yang, Xiaofang Zhou  
-  *Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction.*  
-  **CIKM** <span style="color:#FF8C00;">**CCF B**</span>  
+<div class="pub-item">
+  <div class="pub-badge-col"><span class="pub-venue-abbr">KDD</span></div>
+  <div class="pub-body">
+    <div class="pub-title">Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation</div>
+    <div class="pub-authors"><strong>Shuhao Li</strong>, Weidong Yang, Yue Cui, Xiaoxing Liu, Lingkai Meng, Lipeng Ma, Fan Zhang</div>
+    <div class="pub-venue-line"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025</em><span class="ccf-badge ccf-a">CCF A</span></div>
+  </div>
+</div>
 
-- **Shuhao Li**, Yue Cui, Libin Li, Weidong Yang, Fan Zhang, Xiaofang Zhou  
-  *ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction.*  
-  **ICDE** <span style="color:#B22222;">**CCF A**</span>  
+<div class="pub-item">
+  <div class="pub-badge-col"><span class="pub-venue-abbr journal">TKDE</span></div>
+  <div class="pub-body">
+    <div class="pub-title">Unifying Lane-Level Traffic Prediction From a Graph Structural Perspective: Benchmark and Baseline</div>
+    <div class="pub-authors"><strong>Shuhao Li</strong>, Yue Cui, Jingyi Xu, Libin Li, Lingkai Meng, Weidong Yang, Fan Zhang, Xiaofang Zhou</div>
+    <div class="pub-venue-line"><em>IEEE Transactions on Knowledge and Data Engineering (TKDE), 37(9): 5699–5718, 2025</em><span class="ccf-badge ccf-a">CCF A</span><span class="ccf-badge sci-q1">SCI Q1</span></div>
+  </div>
+</div>
 
-### 2023  
-- **Shuhao Li**, Yue Cui, Yan Zhao, Weidong Yang, Ruiyuan Zhang, Xiaofang Zhou  
-  *ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction.*  
-  **CIKM** <span style="color:#FF8C00;">**CCF B**</span>  
+<p class="pub-year">2024</p>
 
-- Yue Cui, **Shuhao Li**, Wenjin Deng, Zhaokun Zhang, Jing Zhao, Kai Zheng, Xiaofang Zhou  
-  *ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework.*  
-  **ICDE** <span style="color:#B22222;">**CCF A**</span>  
+<div class="pub-item">
+  <div class="pub-badge-col"><span class="pub-venue-abbr">CIKM</span></div>
+  <div class="pub-body">
+    <div class="pub-title">Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction</div>
+    <div class="pub-authors"><strong>Shuhao Li</strong>, Yue Cui, Jingyi Xu, Jing Zhao, Fan Zhang, Weidong Yang, Xiaofang Zhou</div>
+    <div class="pub-venue-line"><em>ACM International Conference on Information and Knowledge Management (CIKM), 2024</em><span class="ccf-badge ccf-b">CCF B</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-badge-col"><span class="pub-venue-abbr">ICDE</span></div>
+  <div class="pub-body">
+    <div class="pub-title">ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction</div>
+    <div class="pub-authors"><strong>Shuhao Li</strong>, Yue Cui, Libin Li, Weidong Yang, Fan Zhang, Xiaofang Zhou</div>
+    <div class="pub-venue-line"><em>IEEE International Conference on Data Engineering (ICDE), 2024</em><span class="ccf-badge ccf-a">CCF A</span></div>
+  </div>
+</div>
+
+<p class="pub-year">2023</p>
+
+<div class="pub-item">
+  <div class="pub-badge-col"><span class="pub-venue-abbr">CIKM</span></div>
+  <div class="pub-body">
+    <div class="pub-title">ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction</div>
+    <div class="pub-authors"><strong>Shuhao Li</strong>, Yue Cui, Yan Zhao, Weidong Yang, Ruiyuan Zhang, Xiaofang Zhou</div>
+    <div class="pub-venue-line"><em>ACM International Conference on Information and Knowledge Management (CIKM), 2023</em><span class="ccf-badge ccf-b">CCF B</span></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-badge-col"><span class="pub-venue-abbr">ICDE</span></div>
+  <div class="pub-body">
+    <div class="pub-title">ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework</div>
+    <div class="pub-authors">Yue Cui, <strong>Shuhao Li</strong>, Wenjin Deng, Zhaokun Zhang, Jing Zhao, Kai Zheng, Xiaofang Zhou</div>
+    <div class="pub-venue-line"><em>IEEE International Conference on Data Engineering (ICDE), 2023</em><span class="ccf-badge ccf-a">CCF A</span></div>
+  </div>
+</div>
+
+</div>  
 
 # 📖 Academic Services {#academic-services}
 ### Conference PC Member  
