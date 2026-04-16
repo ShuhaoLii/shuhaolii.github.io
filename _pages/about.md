@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan University**](https://cs.fudan.edu.cn/24248/list.htm) (2023–present), under the supervision of [**Prof. Weidong Yang**](https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm), and I am expected to graduate in 2027. Prior to this, I received my M.S. degree from Guangzhou University in June 2023, advised by [**Prof. Xiaofang Zhou**](https://sites.google.com/view/xiaofang-zhou/home).
+I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan University**](https://cs.fudan.edu.cn/24248/list.htm) (2023–present), under the supervision of [**Prof. Weidong Yang**](https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm). I am also a joint Ph.D. student at [**Nanyang Technological University**](https://www.ntu.edu.sg/) (2025–present), advised by [**Prof. Siqiang Luo**](https://siqiangluo.com/). Prior to this, I received my M.S. degree from Guangzhou University in June 2023, advised by [**Prof. Xiaofang Zhou**](https://sites.google.com/view/xiaofang-zhou/home).
+
 
 # 🔍 Research Interests
 
@@ -150,11 +151,12 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 
 # 📖 Academic Services {#academic-services}
 ### Conference PC Member  
-- **2026**: KDD, AAAI  
+- **2026**: ICML, KDD, AAAI, SIGIR, ICLR  
 - **2025**: NeurIPS, KDD, WWW, ICML, ICLR  
 - **2024**: NeurIPS  
 
 ### Invited Journal Reviewer  
+- **2026**: DKE, KBS, Neural Networks
 - **2025**: TKDE, TEENG  
 - **2024**: TKDE, Neural Networks, TCCN  
 
@@ -163,7 +165,8 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 - **2023**: ICDM  
 
 # 🏆 Honors & Awards {#honors-awards}
-- CSC National Scholarship for Study Abroad (2025)  
+- Youth Science and Technology Talents Cultivation Project – Doctoral Student Special Program (China Association for Science and Technology) (2025)
+- CSC National Scholarship (2025)  
 - Fudan–Huawei Scholarship (2024)  
 - First-Class Academic Scholarship, Fudan University (2023)  
 - GZU–Jinhang Technology Scholarship (2022)  
