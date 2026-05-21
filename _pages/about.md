@@ -24,7 +24,7 @@ I warmly welcome collaborations with researchers interested in **spatio-temporal
 For more information, please visit my academic profiles: [Google Scholar](https://scholar.google.com/citations?user=lS915b8AAAAJ&hl=zh-CN) · [DBLP](https://dblp.org/pid/25/5081-1.html).
 
 # 💥 News 
-- <span style="color:#FF8C00;">[May 2026]</span> Our paper **MiniTraffic** has been accepted to **ICML 2026**.  
+- <span style="color:#FF8C00;">[May 2026]</span> Our paper **MiniTraffic** on fine-grained traffic prediction has been accepted to **ICML 2026**.  
 - <span style="color:#FF8C00;">[Jan 2026]</span> Our paper **ST-LEGO** on LLM-based spatio-temporal model design has been accepted to **The Web Conference 2026**.  
 - <span style="color:#FF8C00;">[May 2025]</span> Our paper on **fine-grained traffic inference** has been accepted to **KDD 2025**.  
 - <span style="color:#FF8C00;">[Feb 2025]</span> Our work on the **lane-level traffic prediction benchmark and baselines** has been accepted to **TKDE**.  
@@ -48,6 +48,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>International Conference on Machine Learning (ICML), 2026</em><span class="ccf-badge ccf-a">CCF A</span></div>
     <div class="pub-links">
       <a href="https://icml.cc/virtual/2026/poster/66525" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/Mini-Traffic" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -63,6 +64,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>Proceedings of the ACM Web Conference (WWW), 2026</em><span class="ccf-badge ccf-a">CCF A</span></div>
     <div class="pub-links">
       <a href="https://dl.acm.org/doi/abs/10.1145/3774904.3792132" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/ST-LEGO" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -80,6 +82,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025</em><span class="ccf-badge ccf-a">CCF A</span></div>
     <div class="pub-links">
       <a href="https://dl.acm.org/doi/abs/10.1145/3711896.3736961" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/RoadDiff" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -95,6 +98,8 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>IEEE Transactions on Knowledge and Data Engineering (TKDE), 37(9): 5699–5718, 2025</em><span class="ccf-badge ccf-a">CCF A</span><span class="ccf-badge sci-q1">SCI Q1</span></div>
     <div class="pub-links">
       <a href="https://ieeexplore.ieee.org/abstract/document/11039090/" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/LaneLevel-Traffic-Benchmark" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
+      <a href="https://mp.weixin.qq.com/s/5j2wy0n0YbDL2nUaQubm0A" class="pub-btn" target="_blank"><i class="fas fa-blog"></i> Blog</a>
     </div>
   </div>
 </div>
@@ -112,6 +117,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>ACM International Conference on Information and Knowledge Management (CIKM), 2024</em><span class="ccf-badge ccf-b">CCF B</span></div>
     <div class="pub-links">
       <a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679600" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/McgVAE" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -127,6 +133,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>IEEE International Conference on Data Engineering (ICDE), 2024</em><span class="ccf-badge ccf-a">CCF A</span></div>
     <div class="pub-links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10597952/" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/ICDE2024" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -144,6 +151,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
     <div class="pub-venue-line"><em>ACM International Conference on Information and Knowledge Management (CIKM), 2023</em><span class="ccf-badge ccf-b">CCF B</span></div>
     <div class="pub-links">
       <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615068" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+      <a href="https://github.com/ShuhaoLii/Spatio-Temporal-Mixture-of-Experts" class="pub-btn" target="_blank"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
