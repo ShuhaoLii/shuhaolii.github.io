@@ -24,6 +24,7 @@ I warmly welcome collaborations with researchers interested in **spatio-temporal
 For more information, please visit my academic profiles: [Google Scholar](https://scholar.google.com/citations?user=lS915b8AAAAJ&hl=zh-CN) · [DBLP](https://dblp.org/pid/25/5081-1.html).
 
 # 💥 News 
+- <span style="color:#FF8C00;">[May 2026]</span> Our paper **MiniTraffic** has been accepted to **ICML 2026**.  
 - <span style="color:#FF8C00;">[Jan 2026]</span> Our paper **ST-LEGO** on LLM-based spatio-temporal model design has been accepted to **The Web Conference 2026**.  
 - <span style="color:#FF8C00;">[May 2025]</span> Our paper on **fine-grained traffic inference** has been accepted to **KDD 2025**.  
 - <span style="color:#FF8C00;">[Feb 2025]</span> Our work on the **lane-level traffic prediction benchmark and baselines** has been accepted to **TKDE**.  
@@ -35,6 +36,21 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 <div class="pub-list">
 
 <p class="pub-year">2026</p>
+
+<div class="pub-item">
+  <div class="pub-badge-col">
+    <img src="/images/pub/MiniTraffic.png" class="pub-thumb" alt="MiniTraffic thumbnail">
+    <span class="pub-venue-abbr">ICML</span>
+  </div>
+  <div class="pub-body">
+    <div class="pub-title">Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task</div>
+    <div class="pub-authors"><strong>Shuhao Li</strong>, Weidong Yang, Ben Fei, Yue Cui, Lipeng Ma, Fan Zhang</div>
+    <div class="pub-venue-line"><em>International Conference on Machine Learning (ICML), 2026</em><span class="ccf-badge ccf-a">CCF A</span></div>
+    <div class="pub-links">
+      <a href="https://icml.cc/virtual/2026/poster/66525" class="pub-btn" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-item">
   <div class="pub-badge-col">
@@ -151,7 +167,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 
 # 📖 Academic Services {#academic-services}
 ### Conference PC Member  
-- **2026**: ICML, KDD, AAAI, SIGIR, ICLR  
+- **2026**: ICML, KDD, AAAI, SIGIR, ICLR, MM  
 - **2025**: NeurIPS, KDD, WWW, ICML, ICLR  
 - **2024**: NeurIPS  
 
@@ -165,7 +181,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 - **2023**: ICDM  
 
 # 🏆 Honors & Awards {#honors-awards}
-- Youth Science and Technology Talents Cultivation Project – Doctoral Student Special Program (China Association for Science and Technology) (2025)
+- CAST Youth Talent Support Project for Doctoral Students (2025)
 - CSC National Scholarship (2025)  
 - Fudan–Huawei Scholarship (2024)  
 - First-Class Academic Scholarship, Fudan University (2023)  
