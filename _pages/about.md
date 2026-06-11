@@ -190,7 +190,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 
 # 🏆 Honors & Awards {#honors-awards}
 - CAST Youth Talent Support Project for Doctoral Students (2025)
-- CSC National Scholarship (2025)  
+- Fudan–Tencent Scholarship (2025)  
 - Fudan–Huawei Scholarship (2024)  
 - First-Class Academic Scholarship, Fudan University (2023)  
 - GZU–Jinhang Technology Scholarship (2022)  
