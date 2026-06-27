@@ -12,12 +12,21 @@ I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan Uni
 
 # 🔍 Research Interests
 
-My research interests focus on **spatio-temporal data mining** and **time-series modeling**, with applications in **intelligent transportation systems (ITS)** and beyond. My current work spans **regional-, road-, and lane-level traffic prediction**, aiming to achieve high-accuracy forecasting to support downstream tasks such as **routing, signal control, and tidal lane management**. I also explore the integration of **large-scale pre-trained models** and **large language models (LLMs)** to improve the **scalability, generalization, and multimodal capabilities** of traffic forecasting. Specifically, my work covers:
+My research focuses on **spatio-temporal data intelligence**, with an emphasis on **spatio-temporal data management**, **time-series modeling**, **intelligent transportation**, and **automated data science**. I am interested in building scalable and generalizable methods that transform heterogeneous spatio-temporal data into reliable prediction, analysis, and decision-support systems.
 
-- **Lane-level traffic prediction**: Fine-grained modeling and inference of lane-level traffic states for real-world applications.
-- **Spatio-temporal fine-grained forecasting**: Multi-granularity and cross-scale sequence modeling for accurate traffic prediction.
-- **Lightweight traffic pre-training models**: Designing efficient and transferable spatio-temporal pre-training frameworks.
-- **LLMs for intelligent transportation**: Investigating the potential of LLMs in traffic forecasting, decision-making, and multimodal applications.
+My current work covers
+
+* **Spatio-temporal data mining and management**  
+  Modeling and organizing heterogeneous graphs, sequences, regions, roads, lanes, and urban sensing data.
+
+* **Intelligent transportation and urban computing**  
+  Developing fine-grained forecasting and inference methods for regional, road-level, and lane-level traffic systems.
+
+* **Pre-trained models for spatio-temporal data**  
+  Designing efficient and transferable pre-training frameworks for cross-scale and cross-domain spatio-temporal prediction.
+
+* **LLMs and agents for automated data science**  
+  Exploring how LLMs and agentic systems can assist data understanding, model design, workflow automation, and human-AI collaboration.
 
 I warmly welcome collaborations with researchers interested in **spatio-temporal data mining, intelligent transportation, time-series modeling, and large models**.
 
@@ -25,7 +34,7 @@ For more information, please visit my academic profiles: [Google Scholar](https:
 
 # 💥 News 
 - <span style="color:#FF8C00;">[May 2026]</span> Our paper **MiniTraffic** on fine-grained traffic prediction has been accepted to **ICML 2026**.  
-- <span style="color:#FF8C00;">[Jan 2026]</span> Our paper **ST-LEGO** on LLM-based spatio-temporal model design has been accepted to **The Web Conference 2026**.  
+- <span style="color:#FF8C00;">[Jan 2026]</span> Our paper **ST-LEGO** on LLM-based spatio-temporal model design has been accepted to **WWWW 2026**.  
 - <span style="color:#FF8C00;">[May 2025]</span> Our paper on **fine-grained traffic inference** has been accepted to **KDD 2025**.  
 - <span style="color:#FF8C00;">[Feb 2025]</span> Our work on the **lane-level traffic prediction benchmark and baselines** has been accepted to **TKDE**.  
 - <span style="color:#FF8C00;">[Jul 2024]</span> Our paper **McgVAE** on lane-level traffic prediction has been accepted to **CIKM 2024**.  
