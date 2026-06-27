@@ -12,21 +12,12 @@ I am currently a Ph.D. candidate at the [**School of Computer Science, Fudan Uni
 
 # 🔍 Research Interests
 
-My research focuses on **spatio-temporal data intelligence**, with an emphasis on **spatio-temporal data management**, **time-series modeling**, **intelligent transportation**, and **automated data science**. I am interested in building scalable and generalizable methods that transform heterogeneous spatio-temporal data into reliable prediction, analysis, and decision-support systems.
+My research focuses on **spatio-temporal data intelligence**, with an emphasis on **spatio-temporal data management**, **time-series modeling**, **intelligent transportation**, and **automated data science**. I am interested in building scalable and generalizable methods that transform heterogeneous spatio-temporal data into reliable prediction, analysis, and decision-support systems. My current work covers
 
-My current work covers
-
-* **Spatio-temporal data mining and management**  
-  Modeling and organizing heterogeneous graphs, sequences, regions, roads, lanes, and urban sensing data.
-
-* **Intelligent transportation and urban computing**  
-  Developing fine-grained forecasting and inference methods for regional, road-level, and lane-level traffic systems.
-
-* **Pre-trained models for spatio-temporal data**  
-  Designing efficient and transferable pre-training frameworks for cross-scale and cross-domain spatio-temporal prediction.
-
-* **LLMs and agents for automated data science**  
-  Exploring how LLMs and agentic systems can assist data understanding, model design, workflow automation, and human-AI collaboration.
+* **Spatio-temporal data mining and management**: Modeling and organizing heterogeneous graphs, sequences, regions, roads, lanes, and urban sensing data.
+* **Intelligent transportation and urban computing**: Developing fine-grained forecasting and inference methods for regional, road-level, and lane-level traffic systems.
+* **Pre-trained models for spatio-temporal data**: Designing efficient and transferable pre-training frameworks for cross-scale and cross-domain spatio-temporal prediction.
+* **LLMs and agents for automated data science**: Exploring how LLMs and agentic systems can assist data understanding, model design, workflow automation, and human-AI collaboration.
 
 I warmly welcome collaborations with researchers interested in **spatio-temporal data mining, intelligent transportation, time-series modeling, and large models**.
 
